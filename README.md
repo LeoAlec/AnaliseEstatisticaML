@@ -8,6 +8,6 @@ O intuito desse projeto é aplicar conceitos estatísticos, vinculando-os com ab
 
 - Inferência Estatística
 
-- Predição
+- Predição(métricas de avaliação)
 
-- 
+
